@@ -130,12 +130,12 @@ I specialize in building end-to-end web applications, from designing intuitive u
 
 ## <img src="https://img.shields.io/badge/GitHub_Stats-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Stats" /> GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AwabSaif&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwabSaif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   
-</div>
+</div> -->
 
 <div align="center">
   
