@@ -17,7 +17,7 @@
 * <img src="https://img.shields.io/badge/Learner-FF6B6B?style=flat-square&logo=bookstack&logoColor=white" alt="Learner" /> **Continuous Learner** - Always expanding my skill set to stay current with industry trends
 * <img src="https://img.shields.io/badge/Problem_Solver-4ECDC4?style=flat-square&logo=codeforces&logoColor=white" alt="Problem Solver" /> **Problem Solver** - Love building impactful projects and solving complex problems through code
 * <img src="https://img.shields.io/badge/Location-006400?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /> **Location** - Based in Jeddah, Saudi Arabia 🇸🇦
-* <img src="https://img.shields.io/badge/Developer-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Developer" /> **Currently** - Working as a Full-Stack Developer with over a year of experience, specializing in MERN Stack and Angular, expanding skills in C# .NET
+* <img src="https://img.shields.io/badge/Developer-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Developer" /> **Currently** - Working as a Full-Stack Developer, specializing in MERN Stack and Angular, expanding skills in C# .NET
 
 ---
 
@@ -56,13 +56,6 @@ I specialize in building end-to-end web applications, from designing intuitive u
 * **Full-Stack Architecture** and best practices
 * **Web Development** methodologies and tools
 
----
-
-## <img src="https://img.shields.io/badge/Contact-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Contact" /> How to Reach Me
-
-* <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> **Email:** [Awabtaz9090@gmail.com](mailto:Awabtaz9090@gmail.com)
-* <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> **LinkedIn:** [awab-saif](https://www.linkedin.com/in/awab-saif/)
-* <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> **GitHub:** [@AwabSaif](https://github.com/AwabSaif)
 
 ---
 
@@ -157,32 +150,29 @@ I specialize in building end-to-end web applications, from designing intuitive u
 
 ## <img src="https://img.shields.io/badge/Current_Project-4ECDC4?style=flat-square&logo=rocket&logoColor=white" alt="Current Project" /> Current Project
 
-I'm currently working on **EarthLife.Apps**, a comprehensive full-stack application that I built from the ground up. This project showcases my expertise in:
+I'm currently working on **EarthLife Platform**, a comprehensive full-stack application that I built from the ground up. This project showcases my expertise in:
 
 - **Geospatial Technologies**: Processing and displaying satellite imagery
 - **Interactive Maps**: Building dynamic mapping solutions for data visualization
-- **Full-Stack Development**: Complete application architecture using Angular, Node.js, and modern web technologies
+- **Full-Stack Development**: Complete application architecture using Angular, .NET, and modern web technologies
 - **Complex Data Processing**: Handling large-scale geospatial data and imagery
 
 This project demonstrates my ability to build complex, production-ready applications that integrate multiple technologies and handle sophisticated data processing requirements.
-
+<!-- 
 ---
 
 ## <img src="https://img.shields.io/badge/Featured_Projects-FF6B6B?style=flat-square&logo=github&logoColor=white" alt="Featured Projects" /> Featured Projects
 
 <div align="center">
   
-  <!-- Add your pinned repositories here by replacing 'repo-name' with your actual repo names -->
   <!-- Example:
   <a href="https://github.com/AwabSaif/repo-name">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AwabSaif&repo=repo-name&theme=tokyonight&hide_border=true" />
   </a>
-  -->
-  
+
 </div>
-
 ---
-
+ -->
 ## <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Connect" /> Let's Connect
 
 <div align="center">
